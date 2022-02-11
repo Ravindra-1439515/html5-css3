@@ -1,0 +1,9 @@
+ git init - To initialize the repository 
+ git remote add origin https://github.com/IndiaMartTrainings/html5-css3-app.git - Connect your local repository to remote repository
+ git status - To check the status of the files to see if they are created /modified
+ git diff - to see the changes made to the files
+ git add filename - To add file to local git repository 
+ git add . - To add multiple files to local git repository
+ git commit -am "added new files to repository" - This will commit all the changes made to files 
+ git push origin master - To push the changes to remote repository
+ git pull origin master - To pull the changes from remote repository
